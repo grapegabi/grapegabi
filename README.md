@@ -16,7 +16,7 @@
   <img align="center" alt="gab-sh" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" alt="gab-sh" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
   <img align="center" alt="gab-sh" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="right" alt="gab-pkmon" src="https://tenor.com/view/pok%C3%A9mon-pokemon-pokemon-ash-pok%C3%A9mon-ash-pikachu-gif-16281974952851756913" />
+  <img align="right" alt="gab-pkmon" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmNnb3k0djBicXR5bnlsenNxOGRmeHplNHFrajdoaXl2N2kzbXA0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PxMLQ3ro9Tcmdqv0Wv/giphy.gif" />
               
 </div>
 
