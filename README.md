@@ -1,4 +1,4 @@
-## Olá, eu sou o Gabriel Mineiro
+## Oii, sou o gabriel
 
 
 - 🌱 estou aprendendo Java
