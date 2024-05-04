@@ -1,10 +1,11 @@
 ## Oii, sou o gabriel
 
 
-- 🌱 estou aprendendo Java
-- 📫 meu contato: gabmineiro123@hotmail.com
+- 🌱 estou aprendendo: Java
+- 📫 meu contato: gabrielmineiroB100@hotmail.com
 - 😄 pronomes: ele/dele
 - ⚡ atualmente cursando ciência da computação na UFRR
+- 👀 tenho interesse em: Linux, segurança e redes
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grapegabi&theme=midnight-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grapegabi&theme=midnight-purple&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
