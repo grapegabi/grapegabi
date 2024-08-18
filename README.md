@@ -2,11 +2,6 @@
 
 <img align="center" alt="gab-pkmon" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmNnb3k0djBicXR5bnlsenNxOGRmeHplNHFrajdoaXl2N2kzbXA0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PxMLQ3ro9Tcmdqv0Wv/giphy.gif" />
 
-- 🌱 aprendendo: Java
-- 📫 meu contato: gabrielmineiroB100@hotmail.com
-- 😄 pronomes: ele/dele
-- ⚡ atualmente cursando ciência da computação na UFRR
-- 👀 interesse em: Redes, sistemas embarcados e segurança
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grapegabi&theme=midnight-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grapegabi&theme=midnight-purple&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
