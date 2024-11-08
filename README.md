@@ -1,4 +1,5 @@
 ## Olá, sou o gabriel
+Atualmente estudando com foco em desenvolvimento web (backend).
 
 <img align="center" alt="gab-pkmon" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmNnb3k0djBicXR5bnlsenNxOGRmeHplNHFrajdoaXl2N2kzbXA0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PxMLQ3ro9Tcmdqv0Wv/giphy.gif" />
 
